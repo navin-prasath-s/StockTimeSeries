@@ -1,2 +1,4 @@
 .timeenv/
-.Data/
+data/
+secrets/
+.idea/
