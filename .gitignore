@@ -3,3 +3,4 @@ data/
 secrets/
 .idea/
 /env
+/artifacts
